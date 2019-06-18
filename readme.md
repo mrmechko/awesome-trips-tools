@@ -26,12 +26,18 @@ A list of TRIPS parsers available for use online
 
 ## Parser Code
 
+Code and libraries to help run and use TRIPS and its resources
+
 ### Native TRIPS code
+
+Original code for TRIPS parsers and components
 
 - [STEP](http://github.com/wdebeaum/STEP)
 - [WebParser](http://github.com/wdebeaum/webparser) (or [modified webparser](http://github.com/tripslab/webparser))
 
 ### Wrappers for TRIPS
+
+External libraries to access TRIPS and resources in other languages.
 
 - [vagrant-trips](http://github.com/tripslab/vagrant-trips)
 - [pytrips](http://github.com/mrmechko/pytrips)
